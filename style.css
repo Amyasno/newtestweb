@@ -1,12 +1,14 @@
 body {
-    background-color: aqua;
+    background-color: rgb(204, 250, 250);
     margin: 0%;
 }
 
 h1 {
     color: rgb(21, 148, 252);
+    text-align: center;
 }
 
 p {
     color: rgb(21, 148, 252);
+    text-align: center;
 }
